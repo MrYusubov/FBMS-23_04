@@ -1,0 +1,14 @@
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\bin\Debug\net8.0\AbstractClassHomeWork.exe
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\bin\Debug\net8.0\AbstractClassHomeWork.deps.json
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\bin\Debug\net8.0\AbstractClassHomeWork.runtimeconfig.json
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\bin\Debug\net8.0\AbstractClassHomeWork.dll
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\bin\Debug\net8.0\AbstractClassHomeWork.pdb
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.AssemblyInfoInputs.cache
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.AssemblyInfo.cs
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.dll
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\refint\AbstractClassHomeWork.dll
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.pdb
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\AbstractClassHomeWork.genruntimeconfig.cache
+C:\Users\Mr.Yusubov\Desktop\AbstractClassHomeWork\AbstractClassHomeWork\obj\Debug\net8.0\ref\AbstractClassHomeWork.dll
